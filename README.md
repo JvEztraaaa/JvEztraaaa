@@ -1,4 +1,4 @@
-# 👋 Hello, I'm JvEztraaaa!  <br><br>
+# 👋 Hello, I'm JvEztraaaa!  <br>
 🚀 IT Student at [National University PH](https://www.facebook.com/NUDasmaPH) specializing in Mobile and Web Applications <br>
 🌱 Currently learning web development through [The Odin Project](https://www.theodinproject.com/about)<br>
 📌 Let's connect and code together!  
