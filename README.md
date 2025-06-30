@@ -4,11 +4,11 @@
 📌 Let's connect and code together!  
 
 ## 🌐 Socials:
-<div align="center">
+<p align="center">
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jveztraaaa)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jan-vincent-estrada/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:janvincentestrada276@gmail.com)
-</div>
+</p>
 
 ## 💻 Tech Stack:
 <div align="center">
