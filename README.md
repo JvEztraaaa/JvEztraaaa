@@ -5,10 +5,7 @@
 📌 Exploring new technologies, building projects, and continuously improving my skills. Let's connect and code together!  
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jveztraaaa27) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jveztraaaa) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-vincent-estrada/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janvincentestrada276@gmail.com) <br>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,py,mysql,php,figma,git,github,powershell,bash)](https://skillicons.dev) <br>
