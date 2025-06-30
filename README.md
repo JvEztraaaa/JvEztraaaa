@@ -1,13 +1,14 @@
 # 👋 Hello, I'm JvEztraaaa!  <br><br>
-🚀 IT Student at [National University PH](https://www.facebook.com/NUDasmaPH) <br>
-🎯 Specializes in Mobile and Web Applications <br>
+🚀 IT Student at [National University PH](https://www.facebook.com/NUDasmaPH) Specializing in Mobile and Web Applications <br>
 🌱 Currently learning web development through [The Odin Project](https://www.theodinproject.com/about)<br>
-📌 Exploring new technologies, building projects, and continuously improving my skills. Let's connect and code together!  
+📌 Let's connect and code together!  
 
 ## 🌐 Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jveztraaaa)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jan-vincent-estrada/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:janvincentestrada276@gmail.com)
+<div align="center">
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jveztraaaa)
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jan-vincent-estrada/)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:janvincentestrada276@gmail.com)
+</div>
 
 ## 💻 Tech Stack:
 <div align="center">
