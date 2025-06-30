@@ -4,17 +4,10 @@
 📌 Let's connect and code together!  
 
 ## 🌐 Socials:
-<div align="center">
-  <a href="https://www.instagram.com/jveztraaaa" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="vertical-align: middle;" />
-  </a>
-  <a href="https://www.linkedin.com/in/jan-vincent-estrada/" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="vertical-align: middle;" />
-  </a>
-  <a href="mailto:janvincentestrada276@gmail.com" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="vertical-align: middle;" />
-  </a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jveztraaaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-vincent-estrada/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janvincentestrada276@gmail.com)
+
 
 ## 💻 Tech Stack:
 <div align="center">
