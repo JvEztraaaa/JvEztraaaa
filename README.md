@@ -4,16 +4,27 @@
 📌 Let's connect and code together!  
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jveztraaaa27/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jveztraaaa)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janvincentestrada276@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-vincent-estrada/)
-[![Certifications](https://img.shields.io/badge/View%20My%20Certifications-FFA500?style=for-the-badge&logo=awslambda&logoColor=white)](https://www.credly.com/users/jan-vincent-estrada)
-
-
-## 💻 Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py,mysql,php,figma,git,github,powershell,bash" alt="My Tech Stack"/>
+  <a href="https://www.facebook.com/jveztraaaa27/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/jveztraaaa" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:janvincentestrada276@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/jan-vincent-estrada/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.credly.com/users/jan-vincent-estrada" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View%20My%20Certifications-FFA500?style=for-the-badge&logo=awslambda&logoColor=white" alt="Certifications" />
+  </a>
+</div>
+
+## 💻 Skills:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py,php,mysql,figma,git,github,powershell,bash" alt="My Tech Stack"/>
 </div>
 
 ## 📊 GitHub Stats:
