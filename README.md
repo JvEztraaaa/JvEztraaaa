@@ -5,17 +5,9 @@
 📌 Exploring new technologies, building projects, and continuously improving my skills. Let's connect and code together!  
 
 ## 🌐 Socials:
-<div align="center">
-  <a href="https://www.instagram.com/jveztraaaa">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jan-vincent-estrada/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:janvincentestrada276@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-</div>
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jveztraaaa)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jan-vincent-estrada/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:janvincentestrada276@gmail.com)
 
 ## 💻 Tech Stack:
 <div align="center">
