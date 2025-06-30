@@ -11,9 +11,7 @@
 [![Certifications](https://img.shields.io/badge/View%20My%20Certifications-FFA500?style=for-the-badge&logo=awslambda&logoColor=white)](https://www.credly.com/users/jan-vincent-estrada) 
 
 ## 💻 Skills:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py,php,mysql,figma,git,github,powershell,bash" alt="My Tech Stack"/>
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,py,php,mysql,figma,git,github,powershell,bash" alt="My Tech Stack"/>
 
 ## 📊 GitHub Stats:
 <p align="center">
