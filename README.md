@@ -15,5 +15,5 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JvEztraaaa&theme=dark&hide_border=false"/> <br>
+  [![JvEztraaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jveztraaaa&show_icons=true&theme=tokyonight)](https://github.com/jveztraaaa/github-readme-stats) <br>
 </p>
