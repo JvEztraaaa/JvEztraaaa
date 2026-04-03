@@ -15,5 +15,5 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  [![JvEztraaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jveztraaaa&show_icons=true&theme=tokyonight)](https://github.com/jveztraaaa/github-readme-stats) <br>
+  <img src="https://streak-stats.demolab.com?user=jveztraaaa&theme=tokyonight" />
 </p>
